@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Faceapp/static/css/main.cd3124b8.css",
-    "main.js": "/Faceapp/static/js/main.54bdea35.js",
+    "main.css": "/Faceapp/static/css/main.0f0e06f3.css",
+    "main.js": "/Faceapp/static/js/main.14ec0512.js",
     "static/js/453.77540fb2.chunk.js": "/Faceapp/static/js/453.77540fb2.chunk.js",
     "index.html": "/Faceapp/index.html",
-    "main.cd3124b8.css.map": "/Faceapp/static/css/main.cd3124b8.css.map",
-    "main.54bdea35.js.map": "/Faceapp/static/js/main.54bdea35.js.map",
+    "main.0f0e06f3.css.map": "/Faceapp/static/css/main.0f0e06f3.css.map",
+    "main.14ec0512.js.map": "/Faceapp/static/js/main.14ec0512.js.map",
     "453.77540fb2.chunk.js.map": "/Faceapp/static/js/453.77540fb2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd3124b8.css",
-    "static/js/main.54bdea35.js"
+    "static/css/main.0f0e06f3.css",
+    "static/js/main.14ec0512.js"
   ]
 }
