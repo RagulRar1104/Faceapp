@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Faceapp/static/css/main.3c6fa95e.css",
+    "main.js": "/Faceapp/static/js/main.2256905f.js",
+    "static/js/453.77540fb2.chunk.js": "/Faceapp/static/js/453.77540fb2.chunk.js",
+    "index.html": "/Faceapp/index.html",
+    "main.3c6fa95e.css.map": "/Faceapp/static/css/main.3c6fa95e.css.map",
+    "main.2256905f.js.map": "/Faceapp/static/js/main.2256905f.js.map",
+    "453.77540fb2.chunk.js.map": "/Faceapp/static/js/453.77540fb2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c6fa95e.css",
+    "static/js/main.2256905f.js"
+  ]
+}
